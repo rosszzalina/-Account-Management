@@ -1,5 +1,7 @@
 # Personal Account Management
 
+### *UML in the Issues*
+
 This Java project is designed to manage personal bank accounts, allowing users to deposit, withdraw, and track their transactions. The project demonstrates basic object-oriented principles and includes tests for ensuring correct functionality.
 
 ## Features
